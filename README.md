@@ -13,3 +13,4 @@
  <p><s>introdução a python</s>  ✅</p> 
  <p><s>segurança daa informação com python</s> ✅</p> 
  <p><s>criando repo</s> ✅</p> 
+ <p><s>linux introdução</s> ✅</p> 
