@@ -12,3 +12,4 @@
  <p><s>introdução ao git</s>  ✅ </p> 
  <p><s>introdução a python</s>  ✅</p> 
  <p><s>segurança daa informação com python</s> ✅</p> 
+ <p><s>criando repo</s> ✅</p> 
