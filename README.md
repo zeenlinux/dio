@@ -1,10 +1,10 @@
 # dio
- tentativaa de organizar algo kekw
+## tentativaa de organizar algo kekw
 
 
 
  atividaades **32**
- concluidas **6** 
+ concluidas **7**      
 
  <p><s>boas vindas</s>  ✅ </p> 
  <p><s>mentoria</s> ✅ </p> 
