@@ -4,7 +4,7 @@
 
 
  atividaades **32**
- concluidas **9**      
+ concluidas **10**      
 
  <p><s>boas vindas</s>  ✅ </p> 
  <p><s>mentoria</s> ✅ </p> 
@@ -15,4 +15,5 @@
  <p><s>criando repo</s> ✅</p> 
  <p><s>linux introdução</s> ✅</p> 
  <p><s>linux diretorios</s> ✅</p>  
- <p><s>linux comandos avançados</s> ✅</p> 
+ <p><s>linux comandos avançados</s> ✅</p>  
+ <p><s>linux gerenciamento de pacotes</s> ✅</p> 
