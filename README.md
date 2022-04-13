@@ -17,4 +17,5 @@
  <p><s>linux diretorios</s> ✅</p>  
  <p><s>linux comandos avançados</s> ✅</p>  
  <p><s>linux gerenciamento de pacotes</s> ✅</p>  
- <p><s>linux compactação</s> ✅</p> 
+ <p><s>linux compactação</s> ✅</p>  
+ <p><s>pensamento computacional</s> ✅</p> 
