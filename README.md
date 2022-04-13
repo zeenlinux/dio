@@ -4,7 +4,7 @@
 
 
  atividaades **32**
- concluidas **11**      
+ concluidas **12**      
 
  <p><s>boas vindas</s>  ✅ </p> 
  <p><s>mentoria</s> ✅ </p> 
