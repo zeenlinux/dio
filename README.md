@@ -4,7 +4,7 @@
 
 
  atividaades **32**
- concluidas **12**      
+ concluidas **13**      
 
  <p><s>boas vindas</s>  ✅ </p> 
  <p><s>mentoria</s> ✅ </p> 
@@ -19,4 +19,6 @@
  <p><s>linux gerenciamento de pacotes</s> ✅</p>  
  <p><s>linux compactação</s> ✅</p>  
  <p><s>pensamento computacional</s> ✅</p>  
- <p><s>desafio 1</s> ✅</p> 
+ <p><s>desafio 1</s> ✅</p>  
+ <p><s>etl</s> ✅</p> 
+ 
