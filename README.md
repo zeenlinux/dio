@@ -4,7 +4,7 @@
 
 
  atividaades **32**
- concluidas **13**      
+ concluidas **14**      
 
  <p><s>boas vindas</s>  ✅ </p> 
  <p><s>mentoria</s> ✅ </p> 
@@ -21,4 +21,5 @@
  <p><s>pensamento computacional</s> ✅</p>  
  <p><s>desafio 1</s> ✅</p>  
  <p><s>etl</s> ✅</p> 
+ <p><s>desafio 2</s> ✅</p>  
  
